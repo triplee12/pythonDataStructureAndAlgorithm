@@ -74,3 +74,15 @@ a*(b-c) vs a*b-a*c
 - Rule 4: A loop in which the controlling parameter is divided by two at each step O(log n)
 
 - Rule 5: When dealing with multiple statements, just add them up
+
+### Interview Questions
+
+Please use comment box on github.com to answer questions below.
+
+- What is a data structure?
+
+- What is an algorithm?
+
+- Big O?
+
+- Recursion?
